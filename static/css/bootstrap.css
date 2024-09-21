@@ -4454,7 +4454,7 @@ input[type="submit"].btn.btn-mini {
 .navbar .btn-navbar {
   display: none;
   float: right;
-  padding: 0 12.4px;
+  padding: 6.2px 12.4px;
   margin-right: 12.4px;
   margin-left: 12.4px;
   *background-color: #aeaeae;
