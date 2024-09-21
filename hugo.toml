@@ -51,6 +51,6 @@ theme = 'hugo.386'
 
   [[menu.main]]
     identifier = "posts"
-    name = "posts"
+    name = "Posts"
     url = "/post/"       # The path can lead to a content folder too.
     weight = 20
